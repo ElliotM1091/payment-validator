@@ -32,11 +32,21 @@ npm install
 
 Compile the TypeScript:
 
-npx tsc
+npm run build
 
 Run the compiled JavaScript:
 
 node dist/index.js
+
+## Running Tests
+
+Compile the TypeScript:
+
+npm run build
+
+Run the automated tests:
+
+npm test
 
 ## Design Decisions
 
