@@ -36,7 +36,7 @@ npx tsc
 
 Run the compiled JavaScript:
 
-node index.js
+node dist/index.js
 
 ## Design Decisions
 
