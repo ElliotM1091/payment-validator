@@ -58,6 +58,5 @@ value and an array of errors so multiple problems can be reported at once.
 
 ## Future Improvements
 
-- Separate validation logic from example/test data
 - Validate raw external input before converting it into a typed `Payment`
 - Expand supported currencies and business rules
